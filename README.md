@@ -8,5 +8,8 @@ After evaluating the performance of each model on the validation set, we found t
 
 Using the Holt-Winters model, we forecasted Amazon's revenue for the fiscal year 2021, with quarterly revenue projections, enabling investors to make informed decisions based on reliable insights into Amazon's financial performance.
 
-#### Comprehensive Report:
+#### Comprehensive Report and Workings:
 [Amazon Revenue_Time Series Forecasting.pdf](https://github.com/srimallipudi/Analyzing-Amazon-s-Revenue-Exploring-Forecasting-Models/files/14780664/Amazon.Revenue_Time.Series.Forecasting.pdf)
+
+[Amazon Revenue Workings.xlsx](https://github.com/srimallipudi/Analyzing-Amazon-s-Revenue-Exploring-Forecasting-Models/files/14780695/Amazon.Revenue.Workings.xlsx)
+
